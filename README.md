@@ -9,19 +9,40 @@ As a senior data analyst at the company, you've been given access to the complet
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked you for a top-level summary of the study results.
 
 
-1. This assignment is broken down into the following tasks:
+ This assignment is broken down into the following tasks:
 
-2. Prepare the data.
+1. Prepare the data.
 
-3. Generate summary statistics.
+2. Generate summary statistics.
 
-4. Create bar charts and pie charts.
+3. Create bar charts and pie charts.
 
-5. Calculate quartiles, find outliers, and create a box plot.
+4. Calculate quartiles, find outliers, and create a box plot.
 
-6. Create a line plot and a scatter plot.
+5. Create a line plot and a scatter plot.
 
-7. Calculate correlation and regression.
+6. Calculate correlation and regression.
 
-8. Submit your final analysis.
+7. Submit your final analysis.
+
+For these analysis both datasets imported, merged and the aggregate data displayed into s single dataframe.This project is conducted in Jupyter Noebook and the link is as follows.
+
+http://localhost:8889/notebooks/Pymaceuticals/pymaceuticals_starter.ipynb
+
+# 1. Prepare the data
+
+  With the provided dependencies data imports, and then merge the mouse_metadata and study_results DataFrames into a single DataFrame.
+
+ The number of unique mice IDs in the data, and  any mouse ID with duplicate time pointshas been displayed and checked. Then the data associated with that mouse ID has been displayed, and then created a new DataFrame where this data is removed. 
+ And this cleaned DataFrame is uesd for the remaining steps.
+
+ The updated first 20 number of unique mice IDs are ,
+ 
+ 
+<img width="786" alt="image" src="https://user-images.githubusercontent.com/116701851/212794017-58fef9ed-7b01-4cef-bc3a-36677eac1257.png">
+
+
+
+
+
 
