@@ -97,25 +97,30 @@ Capomulin Final Tumor Volume:
 
 Capomulin Quartiles , IQR and values above and below quartile:
 
-<img width="526" alt="image" src="https://user-images.githubusercontent.com/116701851/212821439-aa2db414-4b61-43a4-8217-d22800cf65a1.png">
+<img width="550" alt="image" src="https://user-images.githubusercontent.com/116701851/212821614-e702f2de-b7f3-4012-b000-951dca6b240c.png">
+
+Ramicane  Final Tumor Volume:
+<img width="735" alt="image" src="https://user-images.githubusercontent.com/116701851/212822283-258d302e-8a4a-4382-a707-946850048fd6.png">
 
 
+Ramicane Quartiles , IQR and values above and below quartile:
 
+<img width="546" alt="image" src="https://user-images.githubusercontent.com/116701851/212822336-4b8062f2-e679-44c9-a1d4-4095c9b7b3e0.png">
 
+Infubinol Final Tumor Volume:
 
+<img width="714" alt="image" src="https://user-images.githubusercontent.com/116701851/212822587-41f08fac-af8d-4d05-adeb-9508f5a69de2.png">
 
+Infubinol Quartiles , IQR and values above and below quartile:
 
+<img width="571" alt="image" src="https://user-images.githubusercontent.com/116701851/212822775-356db8c1-06a9-40ed-8601-9d6b90577cf5.png">
 
+Ceftamin Final Tumor Volume:
 
+<img width="751" alt="image" src="https://user-images.githubusercontent.com/116701851/212822966-0b471932-3b7b-4cbc-bc82-5f499c2922db.png">
 
+Ceftamin Quartiles , IQR and values above and below quartile:
 
-
-
-
-
-
-
-
-
+<img width="545" alt="image" src="https://user-images.githubusercontent.com/116701851/212823024-72016a9e-0d5c-4c4c-9c04-f0aced789217.png">
 
 
