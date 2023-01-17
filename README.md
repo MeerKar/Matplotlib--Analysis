@@ -60,11 +60,15 @@ And the values are
 
 # 3. Create bar charts and pie charts.
 
-Generate two bar charts. Both charts should be identical and show the total number of time points for all mice tested for each drug regimen throughout the study.
+A two bar charts has been generated. Both charts were identical and showed the total number of time points for all mice tested for each drug regimen throughout the study. The first bar chart with the Pandas DataFrame.plot() method and the second bar chart with Matplotlib's pyplot methods.It is as shown below.
 
-Create the first bar chart with the Pandas DataFrame.plot() method.
+<img width="736" alt="image" src="https://user-images.githubusercontent.com/116701851/212795862-ec0b6307-a75d-4352-9a04-fc6d0b9f7d9b.png">
 
-Create the second bar chart with Matplotlib's pyplot methods.
+<img width="288" alt="image" src="https://user-images.githubusercontent.com/116701851/212795980-10f89285-800d-42d6-a0f7-5002a6243bb4.png">
+
+
+<img width="735" alt="image" src="https://user-images.githubusercontent.com/116701851/212796104-b2fc7013-d041-4b75-b355-b734ecd64c78.png">
+
 
 Generate two pie charts. Both charts should be identical and show the distribution of female versus male mice in the study.
 
