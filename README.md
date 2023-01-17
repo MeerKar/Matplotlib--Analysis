@@ -70,17 +70,20 @@ A two bar charts has been generated. Both charts were identical and showed the t
 <img width="735" alt="image" src="https://user-images.githubusercontent.com/116701851/212796104-b2fc7013-d041-4b75-b355-b734ecd64c78.png">
 
 
-Generate two pie charts. Both charts should be identical and show the distribution of female versus male mice in the study.
+Similarly generated two pie charts which identical and showed the distribution of female versus male mice in the study.
+Like the bar chart \ the first pie chart with the Pandas DataFrame.plot() method and the second pie chart with Matplotlib's pyplot methods. 
 
-Create the first pie chart with the Pandas DataFrame.plot() method.
+Inorder to get the pie plot showing the distribution of female versus male mice using Pandas
+  First used Group by gender and got the number to plot
 
-Create the second pie chart with Matplotlib's pyplot methods.
-
-
-
-
+<img width="305" alt="image" src="https://user-images.githubusercontent.com/116701851/212818954-1f958179-806e-4139-80b5-9fd8a8a6b7fc.png">
 
 
+<img width="686" alt="image" src="https://user-images.githubusercontent.com/116701851/212819041-15707650-77d9-40b6-a812-970bfae96e54.png">
+
+Pie chart with pyplot method.
+
+<img width="732" alt="image" src="https://user-images.githubusercontent.com/116701851/212819162-cf0232c2-7fac-44de-af1b-dd22f4a79643.png">
 
 
 
