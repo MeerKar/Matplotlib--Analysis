@@ -86,4 +86,36 @@ Pie chart with pyplot method.
 <img width="732" alt="image" src="https://user-images.githubusercontent.com/116701851/212819162-cf0232c2-7fac-44de-af1b-dd22f4a79643.png">
 
 
+# 4. Calculate quartiles, find outliers, and create a box plot.
+
+The final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. 
+The quartiles and IQR, to determine if there are any potential outliers across all four treatment regimens also  been calculated:
+
+Capomulin Final Tumor Volume:
+
+<img width="722" alt="image" src="https://user-images.githubusercontent.com/116701851/212820345-50fca071-5851-4ddc-a70d-fe1c46379f1c.png">
+
+Capomulin Quartiles , IQR and values above and below quartile:
+
+<img width="526" alt="image" src="https://user-images.githubusercontent.com/116701851/212821439-aa2db414-4b61-43a4-8217-d22800cf65a1.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
