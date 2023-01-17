@@ -23,7 +23,7 @@ The executive team has tasked you with generating all of the tables and figures 
 
 6. Calculate correlation and regression.
 
-7. Submit your final analysis.
+7. Final analysis.
 
 For these analysis both datasets imported, merged and the aggregate data displayed into s single dataframe.This project is conducted in Jupyter Noebook and the link is as follows.
 
@@ -95,7 +95,7 @@ Capomulin Final Tumor Volume:
 
 <img width="722" alt="image" src="https://user-images.githubusercontent.com/116701851/212820345-50fca071-5851-4ddc-a70d-fe1c46379f1c.png">
 
-Capomulin Quartiles , IQR and values above and below quartile:
+Capomulin Quartiles , IQR and values above and below outliers:
 
 <img width="550" alt="image" src="https://user-images.githubusercontent.com/116701851/212821614-e702f2de-b7f3-4012-b000-951dca6b240c.png">
 
@@ -103,7 +103,7 @@ Ramicane  Final Tumor Volume:
 <img width="735" alt="image" src="https://user-images.githubusercontent.com/116701851/212822283-258d302e-8a4a-4382-a707-946850048fd6.png">
 
 
-Ramicane Quartiles , IQR and values above and below quartile:
+Ramicane Quartiles , IQR and values above and below outliers:
 
 <img width="546" alt="image" src="https://user-images.githubusercontent.com/116701851/212822336-4b8062f2-e679-44c9-a1d4-4095c9b7b3e0.png">
 
@@ -111,7 +111,7 @@ Infubinol Final Tumor Volume:
 
 <img width="714" alt="image" src="https://user-images.githubusercontent.com/116701851/212822587-41f08fac-af8d-4d05-adeb-9508f5a69de2.png">
 
-Infubinol Quartiles , IQR and values above and below quartile:
+Infubinol Quartiles , IQR and values above and below outliers:
 
 <img width="571" alt="image" src="https://user-images.githubusercontent.com/116701851/212822775-356db8c1-06a9-40ed-8601-9d6b90577cf5.png">
 
@@ -119,8 +119,45 @@ Ceftamin Final Tumor Volume:
 
 <img width="751" alt="image" src="https://user-images.githubusercontent.com/116701851/212822966-0b471932-3b7b-4cbc-bc82-5f499c2922db.png">
 
-Ceftamin Quartiles , IQR and values above and below quartile:
+Ceftamin Quartiles , IQR and values above and below outliers:
 
 <img width="545" alt="image" src="https://user-images.githubusercontent.com/116701851/212823024-72016a9e-0d5c-4c4c-9c04-f0aced789217.png">
+
+A box plot is generated to shows the distrubution of the tumor volume for each treatment group.
+
+<img width="721" alt="image" src="https://user-images.githubusercontent.com/116701851/212824074-033b0c5c-4fa6-4da4-b3d2-5a0a127fdfbb.png">
+
+
+# 5. Create a line plot and a scatter plot.
+
+A line plot is generated to find the  tumor volume vs. time point for a mouse ID 'b742' with Capomulin
+
+<img width="776" alt="image" src="https://user-images.githubusercontent.com/116701851/212825824-c4afc25b-289a-4ab1-a83c-065b5ca345a6.png">
+
+
+A scatter plot is generated to find the average tumor volume vs. mouse weight for the Capomulin regimen
+
+<img width="739" alt="image" src="https://user-images.githubusercontent.com/116701851/212826056-bbd561ac-9724-4efd-ab6e-7fe0a875a0f0.png">
+
+
+
+# 6. Calculate correlation and regression.
+
+The correlation coefficient and linear regression model is found as
+
+<img width="405" alt="image" src="https://user-images.githubusercontent.com/116701851/212826446-bbaae128-7ed72fd10a5aebd.png">
+
+<img width="466" alt="image" src="https://user-images.githubusercontent.com/116701851/212826674-46ec34a4-96eb-44f4-abb7-0dbedde1d853.png">
+
+A linear plot is created as follows,
+
+<img width="728" alt="image" src="https://user-images.githubusercontent.com/116701851/212826921-178ffce5-b97c-42d7-94ac-84413abfdd86.png">
+
+#  7. Final analysis.
+
+ The final analysis prove that from the selected treatements Capomulin and Ramicane reduces the size of tumors better. In order to get these results it is seen from the bar graph that Capomulin Drug has the maximun mice number(230) and Zoniferol has the minimun mice number(182).After cleaning the duplicates ,the total mice was shown as 248 and the total female mice is 124 and the male is 125.There is a strong corelation value of 0.84, shows when the mouse weight increase the average tumor volume also icrease.The R-squared value(0.70) shows the 70%  of the variation in response variable around its mean.
+
+
+
 
 
