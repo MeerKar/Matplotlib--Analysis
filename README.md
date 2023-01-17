@@ -33,7 +33,7 @@ http://localhost:8889/notebooks/Pymaceuticals/pymaceuticals_starter.ipynb
 
   With the provided dependencies data imports, and then merge the mouse_metadata and study_results DataFrames into a single DataFrame.
 
- The number of unique mice IDs in the data, and  any mouse ID with duplicate time pointshas been displayed and checked. Then the data associated with that mouse ID has been displayed, and then created a new DataFrame where this data is removed. 
+ The number of unique mice IDs in the data, and  any mouse ID with duplicate time points has been displayed and checked. Then the data associated with that mouse ID has been displayed, and then created a new DataFrame where this data is removed. 
  And this cleaned DataFrame is uesd for the remaining steps.
 
  The updated first 20 number of unique mice IDs are ,
