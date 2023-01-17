@@ -42,6 +42,40 @@ http://localhost:8889/notebooks/Pymaceuticals/pymaceuticals_starter.ipynb
 <img width="786" alt="image" src="https://user-images.githubusercontent.com/116701851/212794017-58fef9ed-7b01-4cef-bc3a-36677eac1257.png">
 
 
+With this cleaned  DataFrame the number of mice found was 248.
+
+# 2. Generate summary statistics.
+
+In this feild,
+
+ A DataFrame is created with summary statistics. 
+And the summary statistics  includes:
+A row for each drug regimen. These regimen names  contains  the index column.
+A column for each of the following statistics: mean, median, variance, standard deviation, and SEM of the tumor volume.
+
+And the values are
+
+<img width="490" alt="image" src="https://user-images.githubusercontent.com/116701851/212795188-a4b87b93-3873-4b21-bc1d-ef06ffd872c0.png">
+
+
+# 3. Create bar charts and pie charts.
+
+Generate two bar charts. Both charts should be identical and show the total number of time points for all mice tested for each drug regimen throughout the study.
+
+Create the first bar chart with the Pandas DataFrame.plot() method.
+
+Create the second bar chart with Matplotlib's pyplot methods.
+
+Generate two pie charts. Both charts should be identical and show the distribution of female versus male mice in the study.
+
+Create the first pie chart with the Pandas DataFrame.plot() method.
+
+Create the second pie chart with Matplotlib's pyplot methods.
+
+
+
+
+
 
 
 
